@@ -18,8 +18,5 @@
     "@types/react": "^19.0.12",
     "@types/react-dom": "^19.0.4"
   },
-  "devDependencies": {},
-  "allowScripts": {
-    "esbuild@0.25.12": true
-  }
+  "devDependencies": {}
 }
