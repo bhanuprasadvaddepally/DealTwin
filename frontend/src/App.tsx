@@ -29,7 +29,7 @@ import {
   Users,
 } from "lucide-react";
 
-const API = "";
+const API = (import.meta.env.VITE_API_BASE_URL ?? "").replace(/\/+$/, "");
 const today = new Date().toISOString().slice(0, 10);
 
 type Evidence = {
