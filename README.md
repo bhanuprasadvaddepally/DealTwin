@@ -23,7 +23,7 @@ DealTwin maintains deal context across interactions and helps sales teams make i
 
 ## 🔗 Project Links
 - **GitHub:** https://github.com/bhanuprasadvaddepally/DealTwin
-- **Demo Video:** [Add your demo link here](https://drive.google.com/file/d/1pMknb78JDa8kPPmPF-XD--STa_mucdwe/view?usp=sharing)
+- **Demo Video:** [DealTwin](https://drive.google.com/file/d/1pMknb78JDa8kPPmPF-XD--STa_mucdwe/view?usp=sharing)
 
 ## 🏆 About
 Built as part of **HackWithHyderabad 3.0**, organized by Hack With India in collaboration with Devnovate.
