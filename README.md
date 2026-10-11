@@ -1,17 +1,34 @@
-# DealTwin
+# DealTwin 🤖
+### AI Sales Agent with Memory
 
-DealTwin is a client conversation workspace prototype. It keeps client notes and outcomes connected to past conversations so sales teams can prepare for the next call with more context.
+DealTwin is an AI-powered sales agent that uses **Hindsight memory** to remember and recall important information throughout the sales deal cycle.
 
-## What it does
+## 💡 Problem
+Sales teams often lose track of customer conversations, pricing concerns, stakeholder priorities, competitor mentions, and follow-up commitments. Reviewing scattered notes takes time and can lead to missed opportunities.
 
-- Create and switch between client workspaces.
-- Save meeting notes, calls, emails, and transcripts, then search past conversations.
-- Ask for client-specific coaching grounded in remembered notes.
-- Review follow-up risks and the people involved in a client relationship.
-- Check a proposed next step for possible benefits, risks, and alternatives.
-- Record what happened and compare a general answer with one informed by client history.
+## 🚀 Solution
+DealTwin maintains deal context across interactions and helps sales teams make informed decisions using past conversations and outcomes.
 
-DealTwin uses Hindsight for long-term memory and evidence-based responses. SQLite stores workspace metadata. Recommendations are guidance, not guaranteed predictions; follow-up and stakeholder analysis are heuristic prototype features.
+## ✨ Key Features
+- 🧠 Remembers customer conversations and objections
+- 👥 Tracks stakeholder priorities and competitor mentions
+- ⏰ Identifies overdue commitments and follow-ups
+- ⚠️ Detects potential deal risks
+- 🎯 Suggests the next best action
+- 📈 Uses past deal context to support better recommendations
+
+## 🛠️ Technology
+- **Hindsight** — Persistent memory
+- **AI Agent** — Context-aware sales recommendations
+
+## 🔗 Project Links
+- **GitHub:** https://github.com/bhanuprasadvaddepally/DealTwin
+- **Demo Video:** Add your demo link here
+
+## 🏆 About
+Built as part of **HackWithHyderabad 3.0**, organized by Hack With India in collaboration with Devnovate.
+
+Our goal is simple: **Less time searching through notes, more time making smarter sales decisions.**
 
 ## Run locally
 
